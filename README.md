@@ -1,63 +1,61 @@
+# 💥 Hi there, I'm Nipuna Janaranjana! 💥
 
-# 👋 Hi, I'm Nipuna Janaranjana!
+I'm an **AI/ML Engineer** and **Tech Enthusiast** exploring the cutting-edge realms of **Generative AI**, **Agentic AI**, and **Computer Vision**. I’m on a mission to revolutionize industries through **AI**. 🤖
 
-Welcome to my GitHub profile! I'm an AI/ML enthusiast passionate about exploring the latest trends in **Generative AI**, **Agentic AI**, and **Computer Vision**. Currently pursuing a Bachelor's in **Information and Communication Technology (Hons)** at the **University of Sri Jayewardenepura**, I focus on applying cutting-edge technologies to real-world problems. 🚀
-
----
-
-## 🔭 Currently Working On:
-- 🧠 **AI/ML Projects**: Leveraging **TensorFlow**, **PyTorch**, and **Keras** to build advanced models.
-- 🎥 **Computer Vision**: Focused on **Pose Estimation**, **Action Recognition**, and **Abnormal Behavior Detection**.
-- 🤖 **Large Language Models (LLMs)**: Fine-tuning LLaMA to provide personalized support for mental health.
-- 🌐 **Full-stack Development**: Building **Flask**, **FastAPI**, and **React** apps to integrate AI into interactive platforms.
+🔭 Currently working on:
+- **AI/ML Solutions** using **TensorFlow**, **PyTorch**, and more! 🧠
+- **Computer Vision** with **Pose Estimation**, **Action Recognition**, and **Anomaly Detection** 👁️
+- **Large Language Models (LLMs)** for **Mental Health Support** 🤝
+- Full-Stack Development with **Flask**, **FastAPI**, and **React** 🌐
 
 ---
 
-## 🌱 I'm Learning:
-- **Bioinformatics**: Transitioning into bioinformatics and exploring how AI can transform healthcare. 🧬
-- **Cloud Computing**: Enhancing skills in **AWS** and **Linux** to build scalable AI systems in the cloud ☁️.
+## 📚 I'm Always Learning:
+- Exploring **Bioinformatics** to drive AI innovation in healthcare 🧬
+- Mastering **Cloud Computing** (AWS, Linux) for scalable AI solutions ☁️
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack 🚀:
 - **Languages**: Python, Java
-- **Frameworks/Tools**: TensorFlow, PyTorch, Flask, FastAPI, React, Docker
+- **Libraries & Frameworks**: TensorFlow, PyTorch, Flask, FastAPI, React, Docker
 - **Databases**: SQL, Vector DB
-- **Skills**: Machine Learning, Neural Networks, Image Processing, NLP, Data Analysis
+- **Skills**: Machine Learning, Neural Networks, Image Processing, NLP
 - **Cloud**: AWS, Linux
 - **Version Control**: Git/GitHub
 
 ---
 
-## 💡 What Drives Me:
-> "Success is built on countless failures, where each setback fuels the next step toward innovation." 💪
+## 🌱 What Drives Me:
+> "Every failure is just a step toward the next big breakthrough." 💡
 
-I'm always exploring new ways to apply AI in diverse fields, whether it’s helping youth, transforming agriculture, or advancing healthcare. I believe in the power of **continuous learning** and am excited to collaborate with like-minded innovators! 🌍
+My passion for **AI** fuels my drive to learn, grow, and create innovative solutions that impact real-world problems. Whether it’s building smart systems, improving healthcare, or transforming education, I’m here to push the boundaries of what AI can achieve. 🚀
 
 ---
 
-## 📫 How to Reach Me:
-- 📧 **Email**: nipunaj@example.com
-- 💼 **LinkedIn**: [Nipuna Janaranjana](https://linkedin.com/in/nipunajanaranjana)
+## 📫 Let’s Connect:
+- 💬 **Email**: nipunaj@example.com
+- 🌐 **LinkedIn**: [Nipuna Janaranjana](https://linkedin.com/in/nipunajanaranjana)
 - 🐦 **Twitter**: [@Nipuna_AI](https://twitter.com/nipunajanaranjana)
 
 ---
 
-## 📈 GitHub Stats:
-![Nipuna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunajanaranjana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunajanaranjana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 💼 Featured Projects:
-- **[Youth Centre Project](https://github.com/nipunajanaranjana/youth-centre)**: A community initiative to create a center for youth empowerment.
-- **[Abnormal Behavior Detection](https://github.com/nipunajanaranjana/abnormal-behavior-detection)**: Building a real-time system for detecting abnormal behaviors using CCTV footage and deep learning.
-- **[Mental Health Assistant (LLM Fine-Tuning)](https://github.com/nipunajanaranjana/mental-health-assistant)**: An LLM model fine-tuned to assist individuals with mental health challenges.
+## 🏆 Featured Projects:
+- **[Youth Centre Project](https://github.com/nipunajanaranjana/youth-centre)**: Creating a space for youth empowerment and community development. 🎨🎶
+- **[Abnormal Behavior Detection](https://github.com/nipunajanaranjana/abnormal-behavior-detection)**: Real-time anomaly detection using CCTV footage and deep learning. 👀
+- **[Mental Health Assistant (LLM)](https://github.com/nipunajanaranjana/mental-health-assistant)**: An LLM to assist with mental health issues, offering personalized support. 🧠💬
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!
-Feel free to explore my repositories, contribute, or just reach out if you're working on something cool! Let's connect and make an impact with **AI** and **tech**! 🌟
+## 💥 Let’s Build Something Big Together! 🚀
+
+I’m always up for collaborating and exploring new challenges. Whether you’re working on a project or just want to chat about the future of **AI** and **tech**, don’t hesitate to reach out! Let's connect and make **AI** a force for good. 🌍✨
 
 ---
 
-⭐ **Follow Me** for updates on projects and cutting-edge AI research!
+⭐ **Follow Me** for more updates, exciting projects, and AI-driven innovations! 🔥
