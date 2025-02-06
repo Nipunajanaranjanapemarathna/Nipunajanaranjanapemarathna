@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nipuna Janaranjana</h1>
+<h1 align="center">Nipuna Janaranjana</h1>
 <h3 align="center">A passionate AI and ML developer</h3>
 
 - 🌱 I’m currently learning **FastAPI,Flask**
